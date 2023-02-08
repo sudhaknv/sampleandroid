@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hello-world-trail",
+    "slug": "hello-world-trail",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hello-world-trail"
+}
